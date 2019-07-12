@@ -1,0 +1,640 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "luthfi1234",
+      "role": "admin",
+      "password": "123123",
+      "transaction": [],
+      "cart": []
+    },
+    {
+      "id": 2,
+      "username": "andi",
+      "role": "user",
+      "password": "rahasia123",
+      "transaction": [],
+      "cart": []
+    },
+    {
+      "username": "ab",
+      "password": "ab",
+      "role": "user",
+      "id": 3,
+      "transaction": [],
+      "cart": []
+    },
+    {
+      "username": "Luthfi",
+      "password": "abc",
+      "role": "user",
+      "id": 4,
+      "transaction": [],
+      "cart": []
+    },
+    {
+      "username": "luthfi123",
+      "password": "123",
+      "role": "user",
+      "id": 5,
+      "transaction": [
+        {
+          "title": "ANNABELLE COMES HOME",
+          "qty": 2,
+          "total": 70000
+        },
+        {
+          "title": "ANNABELLE COMES HOME",
+          "qty": 1,
+          "total": 1,
+          "id": 1
+        },
+        [],
+        [
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": 2,
+            "total": 2,
+            "id": 1
+          }
+        ],
+        [
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": 2,
+            "total": 2,
+            "id": 1
+          },
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": 1,
+            "total": 1,
+            "id": 1
+          },
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                1
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          }
+        ],
+        [
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          },
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                1,
+                5
+              ]
+            ],
+            "total": 105000,
+            "id": 2
+          }
+        ],
+        [
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          },
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                1,
+                5
+              ]
+            ],
+            "total": 105000,
+            "id": 2
+          }
+        ],
+        [],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                3,
+                13
+              ],
+              [
+                3,
+                14
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          },
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                4,
+                3
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          }
+        ],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                3,
+                13
+              ],
+              [
+                3,
+                14
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          },
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                4,
+                3
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          }
+        ],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                4,
+                3
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          },
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                5,
+                14
+              ],
+              [
+                5,
+                15
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          }
+        ],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                4,
+                3
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          },
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                5,
+                14
+              ],
+              [
+                5,
+                15
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          }
+        ],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                4,
+                3
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          },
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                5,
+                14
+              ],
+              [
+                5,
+                15
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          }
+        ],
+        [
+          {
+            "title": "ANNABELLE COMES HOME",
+            "qty": [
+              [
+                2,
+                8
+              ],
+              [
+                2,
+                9
+              ]
+            ],
+            "total": 70000,
+            "id": 1
+          }
+        ],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                2,
+                10
+              ],
+              [
+                2,
+                11
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          }
+        ],
+        [
+          {
+            "title": "TOY STORY",
+            "qty": [
+              [
+                2,
+                10
+              ],
+              [
+                2,
+                11
+              ]
+            ],
+            "total": 70000,
+            "id": 2
+          }
+        ]
+      ],
+      "cart": []
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "ANNABELLE COMES HOME",
+      "genre": "Horror",
+      "sinopsis": "Pasangan suami istri Ed Warren (Patrick Wilson) dan Lorraine Warren (Vera Farmiga) sepakat untuk meletakkan boneka Annabelle di ruang khusus mereka. Dibalik lemari kaca suci dan mendapat berkat dari seorang pendeta. Namun malapetaka datang saat Annabelle membangunkan roh-roh jahat yang ada di ruangan itu. Putri pasangan ini, Judy Warren (Mckenna Grace) dan temannya menjadi target teror baru Annabelle dan iblis jahat lainnya.",
+      "playingAt": [
+        9,
+        14,
+        20
+      ],
+      "duration": 106,
+      "sutradara": "Gary Dauberman",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156074568118284_452x647.jpg",
+      "seats": 120,
+      "booked": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          4,
+          11
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          0,
+          11
+        ],
+        [
+          2,
+          14
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          5,
+          14
+        ],
+        [
+          5,
+          15
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          2,
+          9
+        ]
+      ],
+      "transaction": []
+    },
+    {
+      "id": 2,
+      "title": "TOY STORY",
+      "genre": "Animation",
+      "sinopsis": "Woody, Buzz Lightyear, dan anggota geng lainnya memulai perjalanan dengan Bonnie dan mainan baru bernama Forky. Perjalanan yang penuh petualangan berubah menjadi reuni yang tak terduga ketika Woody bertemu dengan Bo Peep. Sebuah perjalanan bersama teman-teman lama dan baru mengungkapkan dunia sangatlah besar untuk sebuah mainan.",
+      "playingAt": [
+        9,
+        20
+      ],
+      "duration": 100,
+      "sutradara": "Josh Cooley",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155929906195254_452x647.jpg",
+      "seats": 100,
+      "booked": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          3,
+          8
+        ],
+        [
+          3,
+          13
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          2,
+          11
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          4,
+          11
+        ],
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          18
+        ]
+      ],
+      "transaction": []
+    },
+    {
+      "id": 3,
+      "title": "ANNA",
+      "genre": "Action",
+      "sinopsis": "Di balik keanggunan Anna Poliatova (Sasha Luss) terdapat sebuah rahasia. Model cantik ini adalah senjata yang sangat mematikan. Kemampuannya membunuh di lapangan menjadikan Anna salah satu agen rahasia yang paling ditakuti.",
+      "playingAt": [
+        9
+      ],
+      "duration": 118,
+      "sutradara": "Luc Besson",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155866895248609_300x430.jpg",
+      "seats": 110,
+      "booked": [],
+      "transaction": []
+    },
+    {
+      "id": 4,
+      "title": "YESTERDAY",
+      "genre": "Comedy",
+      "sinopsis": "Apa jadinya jika semua orang di dunia tidak mengenal The Beatles? Jack Malik (Himesh Patel) adalah seorang musisi yang sedang berjuang mewujudkan mimpinya. Suatu hari ia memainkan lagu Yesterday karya The Beatles. Namun teman-teman yang mendengarkan Jack tidak mengetahui lagu tersebut. Jack dikisahkan sebagai satu-satunya orang di dunia yang mengingat karya-karya The Beatles.",
+      "playingAt": [
+        20
+      ],
+      "duration": 116,
+      "sutradara": "Danny Boyle",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156022895488927_300x430.jpg",
+      "seats": 120,
+      "booked": [],
+      "transaction": []
+    },
+    {
+      "id": 5,
+      "title": "Koki-Koki Cilik",
+      "genre": "Family",
+      "sinopsis": "Libur telah tiba artinya Cooking Camp akan kembali dibuka. Bima, Alfa, Kevin, Niki, Mely dan Key datang ke camp dengan niat reuni malah dikejutkan bahwa camp sudah tutup. Ini semua berawal dari omongan Evan, mantan Chef terkenal, yang meragukan kredibilitas Grant sebagai pengajar di camp. Sementara keluarga besar Pak Malik ingin menjual lahan camp. Grant yang terpuruk kemudian dihibur anak-anak agar mau membuka Cooking Camp lagi. Mereka mempunyai ide untuk menjual makanan di food truck agar bisa mengumpulkan modal camp. Usaha mereka dibantu oleh Tante Adel dan Adit, keponakan Adel yang lucu sekaligus pemurung sejak kematian Mamanya. Konflik bermunculan ketika menjual makanan tidak segampang yang mereka kira. Ditambah sandwich buatan Adit dituduh hasil jiplakan restoran yang dikelola oleh Evan yang ternyata adalah alumni Cooking Camp angkatan pertama. Kini anak-anak harus bersatu dan bekerja keras untuk mempertahankan Cooking Camp.",
+      "playingAt": [
+        9,
+        20
+      ],
+      "duration": 91,
+      "sutradara": "Viva Westi",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155833340228800_300x430.jpg",
+      "seats": 80,
+      "booked": [],
+      "transaction": []
+    },
+    {
+      "title": "SABYAN MENJEMPUT MIMPI",
+      "sutradara": "Amin Ishaq",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155842097061702_300x430.jpg",
+      "genre": "Musikal",
+      "playingAt": [
+        9
+      ],
+      "duration": "10",
+      "sinopsis": "SABYAN, siapa yang ga kenal mereka sekarang. Bahkan grup music ini sangat populer di kalangan kaum milenial. Padahal genre music yang mereka bawa tidaklah biasa. GAMBUS.. ya Gambus musiknya. Di bawakan dengan penuh penghayatan oleh NISSA sang vokalis utama. Seorang gadis cantik dan kharismatik dengan suara yang khas berhasil menghipnotis orang yang mendengar musik SABYAN. Banyak yang ga tau, bagaimana mereka berkisah. Bagaimana anak anak muda yang di pimpin oleh AYUS ini bisa bersatu dalam satu nadi bernama GAMBUS. Banyak kisah kisah menarik di balik itu. Perjuangan AYUS, NISSA dan teman teman SABYAN dalam menggapai sebuah mimpi.",
+      "id": 6,
+      "seats": 80,
+      "booked": [],
+      "transaction": []
+    },
+    {
+      "title": "SPIDER-MAN: FAR FROM HOME",
+      "sutradara": "Jon Watts",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+      "genre": "Adventure",
+      "playingAt": [
+        "9",
+        "14"
+      ],
+      "duration": "110",
+      "sinopsis": "Petualangan Peter Parker (Tom Holland) kali ini akan menuju Eropa. Bersama teman-teman sekolahnya MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori). \n\nNamun ancaman datang dalam bentuk yang berbeda, teror mulai menyerang kota-kota di Eropa. Kemunculan sosok Mysterio (Jake Gyllenhaal), Nick Fury (Samuel L. Jackson) dan Happy Hogan (Jon Favreau) akan memberi petunjuk dan tugas baru untuk sang manusia laba-laba itu.",
+      "id": 7,
+      "seats": 100,
+      "booked": [],
+      "transaction": []
+    },
+    {
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "sutradara": "Chad Stahelski",
+      "image": "https://cdn.shopify.com/s/files/1/0747/3829/products/mHP0101_1024x1024.jpeg?v=1485014463",
+      "genre": "Action",
+      "playingAt": [
+        "9",
+        "16"
+      ],
+      "duration": "120",
+      "sinopsis": "Parabellum melanjutkan kisah film sebelumnya, John Wick: Chapter 2 (2017). Pada sekuel sebelumnya, film ini bercerita tentang John Wick yang pembunuh bayaran yang membantai banyak orang untuk membalas dendam atas kematian anjing kesayangannya. Tak hanya membunuh anjing kesayangannya, mobil John Wick berjenis Ford Mustang tahun 1969 dicuri oleh kelompok orang bersenjata. Namun, cerita John Wick meluas ke hingga ke kelompok mafia Rusia. Pada sekuel ketiga ini, John Wick bakal (Keanu Reeves) menjadi target utama perburuan pembunuh bayaran seluruh dunia. Bagi yang berhasil menangkapnya, akan diberi hadiah sebesar 14 juta dolar AS. Pada seri ketiga ini, ada dua pemain Indonesia yang bergabung yaitu Yayan Ruhian dan Cecep Arif Rahman. \n\n",
+      "id": 8,
+      "seats": 100,
+      "booked": [],
+      "transaction": []
+    }
+  ]
+}
